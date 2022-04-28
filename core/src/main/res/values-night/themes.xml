@@ -1,0 +1,45 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="PagesBackground">
+        <item name="android:background">@color/page_background_dark</item>
+    </style>
+
+    <style name="CardItemBackground">
+        <item name="android:background">@drawable/card_background_dark</item>
+    </style>
+
+    <style name="ToolbarTitleText">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">@dimen/toolbar_title</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="HeaderText" parent="TextAppearance.MaterialComponents.Headline3">
+        <item name="android:textColor">@color/header_dark</item>
+        <item name="android:textSize">@dimen/header</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="TitleText" parent="TextAppearance.MaterialComponents.Headline6">
+        <item name="android:textColor">@color/title_dark</item>
+        <item name="android:textSize">@dimen/title</item>
+    </style>
+
+    <style name="DescriptionText" parent="TextAppearance.MaterialComponents.Body1">
+        <item name="android:textColor">@color/description_dark</item>
+        <item name="android:textSize">@dimen/description</item>
+    </style>
+
+    <style name="DateText" parent="TextAppearance.MaterialComponents.Body1">
+        <item name="android:textColor">@color/date_dark</item>
+        <item name="android:textSize">@dimen/date</item>
+    </style>
+
+    <style name="DialogButton">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">@dimen/title</item>
+    </style>
+
+    <style name="FilterTextInput" parent="ThemeOverlay.Material3.TextInputEditText"/>
+
+</resources>

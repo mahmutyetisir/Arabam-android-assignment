@@ -1,0 +1,28 @@
+<resources>
+    <string name="bottom_category_id">Category Id</string>
+    <string name="bottom_max_year">Max Year</string>
+    <string name="bottom_min_year">Min Year</string>
+    <string name="bottom_submit">Submit</string>
+    <string name="bottom_price">Price</string>
+    <string name="bottom_date">Date</string>
+    <string name="bottom_year">Year</string>
+    <string name="bottom_ascending">Ascending</string>
+    <string name="bottom_descending">Descending</string>
+
+    <string name="detail_model">Model : </string>
+    <string name="detail_price">Price : </string>
+    <string name="detail_date">Date : </string>
+    <string name="detail_location">Location : </string>
+    <string name="detail_username">User Name : </string>
+    <string name="detail_phone">Phone Number: </string>
+    <string name="detail_description">Description: </string>
+
+    <string name="list_sort_type">Sort Type</string>
+
+    <string name="retry_button_text">RETRY</string>
+    <string name="alert_dialog_title">Warning</string>
+    <string name="alert_dialog_message">When getting cars, faced this (%1$s) error. You can retry get car list.</string>
+    <string name="alert_dialog_detail_message">When getting cars detail, faced this (%1$s) error. You can retry another time.</string>
+    <string name="alert_dialog_retry_button">Retry</string>
+    <string name="alert_dialog_ok_button">OK</string>
+</resources>

@@ -1,2 +1,22 @@
-include ':app'
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+        maven { url 'https://jitpack.io' }
+    }
+}
+
 rootProject.name = "arabam"
+include ':app'
+include ':core'
+include ':feature'
+include ':domain'
+include ':data'

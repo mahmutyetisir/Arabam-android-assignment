@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bottom_category_id">Kategori Id</string>
+    <string name="bottom_max_year">Max Yıl</string>
+    <string name="bottom_min_year">Min Yıl</string>
+    <string name="bottom_submit">Uygula</string>
+    <string name="bottom_price">Fiyata göre</string>
+    <string name="bottom_date">Tarihe göre</string>
+    <string name="bottom_year">Yıla göre</string>
+    <string name="bottom_ascending">Büyükten küçüğe</string>
+    <string name="bottom_descending">Küçükten büyüğe</string>
+
+    <string name="detail_model">Model : </string>
+    <string name="detail_price">Fiyat : </string>
+    <string name="detail_date">Tarih : </string>
+    <string name="detail_location">Konum : </string>
+    <string name="detail_username">İlan Sahibi : </string>
+    <string name="detail_phone">Telefon Numarası : </string>
+    <string name="detail_description">Açıklama : </string>
+
+    <string name="list_sort_type">Sıralama Türü</string>
+
+    <string name="retry_button_text">Tekrar Dene</string>
+    <string name="alert_dialog_title">Uyarı</string>
+    <string name="alert_dialog_message">Arabaları getirirken bir hata ile karşılaşıldı - (%1$s). Araba listesini getirmeyi tekrar deneyin.</string>
+    <string name="alert_dialog_detail_message">Araç detayı getirilirken bir hata ile karşılaşıldı - (%1$s). Daha sonra tekrar deneyin.</string>
+    <string name="alert_dialog_retry_button">Tekrar dene</string>
+    <string name="alert_dialog_ok_button">Tamam</string>
+</resources>
